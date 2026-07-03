@@ -1,6 +1,11 @@
 <div align="center">
 <h1 align="center">MoneyPrinterTurbo 💸</h1>
 
+> **本仓库是 [TechDou Video Studio](docs/techdou-video-studio-product.md) 的本地开发分支**，
+> 基于 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+> （上游 commit `48b0871`）。本地一键启动、配置和 Windows 运维说明见
+> [TechDou Windows Runbook](docs/techdou-windows-runbook.md)。
+
 <p align="center">
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>

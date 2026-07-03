@@ -11,7 +11,10 @@
 .vscode
 /**/.streamlit
 __pycache__
+.pytest_cache/
 logs/
+.run/
+.codex-run/
 
 node_modules
 # VuePress 默认临时文件目录
